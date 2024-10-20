@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Angel L. Soria's organic hair care products. Keeping your hair happy with natural and sustainable solutions.">
+    <title>Angel L. Soria | Organic Hair Care</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #F0FFF4; /* Soft greenish spring color */
+            color: #333;
+        }
+        header {
+            background-color: #A3D2CA; /* Cool pastel green */
+            padding: 20px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+            color: #086972; /* Deeper green for contrast */
+        }
+        main {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 20px;
+        }
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: #FDF6EC; /* Light spring beige */
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        section h2 {
+            color: #086972;
+            font-size: 1.8em;
+            margin-bottom: 10px;
+        }
+        footer {
+            background-color: #F0FFF4;
+            padding: 10px;
+            text-align: center;
+            color: #086972;
+            font-size: 0.9em;
+        }
+        a {
+            color: #086972;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Angel L. Soria</h1>
+        <p>Organic Hair Care Products - Keeping Your Hair Happy</p>
+    </header>
+
+    <main>
+        <section>
+            <h2>Our Philosophy</h2>
+            <p>At Angel L. Soria, we believe in the power of nature to nourish your hair. Our products are made from organic ingredients, free from harmful chemicals, and are designed to keep your hair looking and feeling its best.</p>
+        </section>
+
+        <section>
+            <h2>Products</h2>
+            <p>We offer a range of products tailored to all hair types:</p>
+            <ul>
+                <li><strong>Organic Shampoo:</strong> A gentle cleanser with plant-based ingredients.</li>
+                <li><strong>Hydrating Conditioner:</strong> Keeps your hair moisturized and soft without weighing it down.</li>
+                <li><strong>Nourishing Hair Oil:</strong> A blend of natural oils for shine and strength.</li>
+                <li><strong>Leave-in Treatment:</strong> Protects your hair from damage and keeps it frizz-free all day.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Contact</h2>
+            <p>For inquiries, please email us at: <a href="mailto:info@angelsoriahair.com">info@angelsoriahair.com</a></p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Angel L. Soria. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
